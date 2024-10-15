@@ -1,0 +1,2 @@
+Student ID:102783895|First Name:Paing|Last Name:Chan|DOB:2024-10-01|Gender:Male|Email:102783895@students.swinburne.edu.my|Hometown:Mandalay|Password:admin123.|Image:my_profile.jpg
+Student ID:1234|First Name:adf|Last Name:asdf|DOB:2024-10-01|Gender:Male|Email:admin@gmail.com|Hometown:kuching|Password:admin123.|Image:boy.jpg

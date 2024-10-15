@@ -1,0 +1,6 @@
+1,Dipterocarpus bourdillonii,Chiratta anjili,Dipterocarpaceae,Dipterocarpus,Dipterocarpus bourdillonii,Dipterocarpus_bourdillonii.JPG,Dipterocarpus_bourdillonii_sp.jpg,
+2,Dipterocarpus caudiferus,Keruing Putih,Dipterocarpaceae,Dipterocarpus,Dipterocarpus caudiferus,Dipterocarpus_caudiferus.jpg,Dipterocarpus_caudiferus_sp.jpg,
+3,Dipterocarpus costatus, keruing bukit,Dipterocarpaceae,Dipterocarpus,Dipterocarpus costatus,Dipterocarpus_costatus.jpg,Dipterocarpus_costatus_sp.jpg,
+4,Dipterocarpus baudii,Keruing Bulu,Dipterocarpaceae,Dipterocarpus,Dipterocarpus baudii,Dipterocarpus_baudii.JPG,Dipterocarpus_baudii_sp.jpg,
+5,Dipterocarpus gracilis,Keruing Kesat,Dipterocarpaceae,Dipterocarpus,Dipterocarpus gracilis,Dipterocarpus_gracilis.jpg,Dipterocarpus_gracilis_sp.jpg,
+6,Dipterocarpus grandiflorus,Keruing Kesat,Dipterocarpaceae,Dipterocarpus,Dipterocarpus grandiflorus,Dipterocarpus_grandiflorus.jpeg,Dipterocarpus_grandiflorus_sp.jpg,
